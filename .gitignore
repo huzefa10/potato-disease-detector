@@ -1,0 +1,34 @@
+# Dataset — download from Kaggle separately
+archive/
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Temp/cache files
+*.tempstate*
+*.lockfile
+cache_0*
+
+# Exploratory files not needed for portfolio
+streamlit_tutorial.py
+test.py
+tf_learn.ipynb
+tf_learn2.ipynb
+Untitled.ipynb
+potato-disease-classification-model.ipynb
+
+# Stock photo
+*.avif
+
+# Saved pickle intermediates
+saved/Variables/
+saved/versions/2/
+saved/Untitled.ipynb
+saved/.ipynb_checkpoints/
