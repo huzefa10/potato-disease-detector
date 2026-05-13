@@ -10,9 +10,11 @@ Potato diseases cause significant crop losses every season. Early Blight and Lat
 
 ---
 
-## Screenshot
+## Demo
 
-> *Screenshot placeholder — uploaded leaf on the left, predicted class + confidence on the right*
+![Upload interface — multiple leaf images loaded](assets/demo-upload.png)
+
+![Prediction results — class and confidence per image](assets/demo-prediction.png)
 
 ---
 
